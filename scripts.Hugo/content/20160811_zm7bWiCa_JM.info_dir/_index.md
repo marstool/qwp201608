@@ -1,0 +1,34 @@
++++
+title = " 20160811_zm7bWiCa_JM Weiping Show | Isham Interview in Malaysia 穆斯林异议领袖Isham专访 "
+description = " Isham是马来西亚最有影响力的穆斯林知识分子之一，他既是电影导演，也是专栏作家，对穆斯林年轻人有相当的号召力，他对西方文明有独特的观察，对于穆斯林世界的未来也有深刻的思考和忧虑。 "
+weight = 20
++++
+
+{{< mymp4 mp4="20160811_zm7bWiCa_JM.info.json.webm.mp4" 
+text="len 37048503"
+>}}
+
+{{< mymp4x  mp4x="20160811_zm7bWiCa_JM.info.json.25k.mp4"
+text="len 6909884"
+>}}
+
+
+{{< mydiv text="Isham是马来西亚最有影响力的穆斯林知识分子之一，他既是电影导演，也是专栏作家，对穆斯林年轻人有相当的号召力，他对西方文明有独特的观察，对于穆斯林世界的未来也有深刻的思考和忧虑。" >}}
+<br>
+
+{{< mydiv text="https://www.youtube.com/watch?v=zm7bWiCa_JM" >}}
+
+
+<br>
+
+请大家传播时，不需要传播文件本身，<br>
+原因是：一旦传播过大东西（例如，图片，文件），<br>
+就会触发检查机制。<br>
+我不知道检查机制的触发条件。<br>
+但是我知道，不会说你传一个没有敏感词的网络地址都检查，<br>
+否则，检查员得累死。<br><br>
+直接转发网址就可以了：<br>
+原因是，这是程序员网站，<br>
+共匪不敢封锁，墙内可以直接下载。
+
+
